@@ -73,7 +73,10 @@ img {
   background: var(--very-dark-blackish-blue);
 }
 
-.card--kira {
+
+
+.card--kira,
+.card--jeanette {
   color: var(--very-dark-grayish-blue);
 }
 
@@ -104,6 +107,7 @@ img {
   color: var(--light-gray);
   font-weight: 600;
 }
+
 
 @media screen and ( min-width: 1024px ) {
 
